@@ -1,5 +1,6 @@
 <?php
 
+// This is the code for chat-api.com // 
 
 function send_whatsapp_apiA($arrPOST){
 
