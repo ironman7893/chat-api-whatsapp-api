@@ -4,7 +4,7 @@
 
 function send_whatsapp_apiA($arrPOST){
 
-    if($arrPOST['media']!=""){  
+    if($arrPOST['media'] != ""){  
                         
         // IMAGE / VIDEO / IMAGE / VIDEO / IMAGE / VIDEO / IMAGE / VIDEO /IMAGE / VIDEO
         // IMAGE / VIDEO / IMAGE / VIDEO / IMAGE / VIDEO / IMAGE / VIDEO /IMAGE / VIDEO
